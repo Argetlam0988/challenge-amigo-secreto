@@ -15,10 +15,9 @@ Este es un proyecto web interactivo que permite a los usuarios ingresar una list
 
 ## 🚀 Tecnologías utilizadas
 
-- HTML5
-- CSS3 (con diseño responsive y variables CSS)
-- JavaScript puro (vanilla JS)
-- Google Fonts: `Inter`, `Merriweather`
+- HTML
+- CSS
+- JavaScript
 
 ---
 
@@ -41,12 +40,12 @@ amigo-secreto/
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone https://github.com/Argetlam0988/amigo-secreto.git
    ```
 
 2. **Entra a la carpeta del proyecto:**
    ```bash
-   cd amigo-secreto
+   cd challenge-amigo-secreto
    ```
 
 3. **Abre el archivo `index.html` en tu navegador:**
@@ -59,19 +58,11 @@ amigo-secreto/
 
 - Sorteo entre todos los participantes sin que nadie se asigne a sí mismo.
 - Opción para compartir resultados de forma privada.
-- Persistencia de datos con `localStorage`.
-- Estilos personalizados para dispositivos móviles.
-- Integración con backend para sorteos seguros.
 
 ---
 
 ## 👨‍💻 Autor
 
-**Tu Nombre Aquí**  
-[@tuUsuarioGitHub](https://github.com/tuUsuarioGitHub)
+**Jorge Ramos**  
+[@Argetlam0988](https://github.com/Argetlam0988)
 
----
-
-## 📄 Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Puedes ver más detalles en el archivo `LICENSE`.
